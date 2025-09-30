@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
-stay/
-copy_half_folder/
+stay
+copy_half_folder
 
 *.txt
 !stay_force/*.txt
